@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\proyecto2\consultas inteligentes\consultas inteligentes\bin\Debug\consultas inteligentes.exe.config
+C:\Users\DELL\Desktop\proyecto2\consultas inteligentes\consultas inteligentes\bin\Debug\consultas inteligentes.exe
+C:\Users\DELL\Desktop\proyecto2\consultas inteligentes\consultas inteligentes\bin\Debug\consultas inteligentes.pdb
+C:\Users\DELL\Desktop\proyecto2\consultas inteligentes\consultas inteligentes\obj\Debug\consultas inteligentes.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\proyecto2\consultas inteligentes\consultas inteligentes\obj\Debug\consultas_inteligentes.Form1.resources
+C:\Users\DELL\Desktop\proyecto2\consultas inteligentes\consultas inteligentes\obj\Debug\consultas_inteligentes.Properties.Resources.resources
+C:\Users\DELL\Desktop\proyecto2\consultas inteligentes\consultas inteligentes\obj\Debug\consultas inteligentes.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\proyecto2\consultas inteligentes\consultas inteligentes\obj\Debug\consultas inteligentes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\proyecto2\consultas inteligentes\consultas inteligentes\obj\Debug\consultas inteligentes.exe
+C:\Users\DELL\Desktop\proyecto2\consultas inteligentes\consultas inteligentes\obj\Debug\consultas inteligentes.pdb
